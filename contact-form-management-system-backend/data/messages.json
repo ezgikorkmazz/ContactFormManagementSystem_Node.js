@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Mary Barry",
+    "message": "Hello, I think we can work together",
+    "gender": "female",
+    "country": "United Kingdom",
+    "read": "true",
+    "creationDate": "2023-07-03T13:21:12.353Z"
+  },
+  {
+    "id": 2,
+    "name": "Frank Williams",
+    "message": "Hi, I have question. What does your company do? Where is your address?",
+    "gender": "male",
+    "country": "United States",
+    "read": "false",
+    "creationDate": "2023-07-05T17:01:12.353Z"
+  },
+  {
+    "id": 3,
+    "name": "Emily Johnson",
+    "message": "Hello, I'm interested in your products. Can you provide more information?",
+    "gender": "female",
+    "country": "Canada",
+    "read": "true",
+    "creationDate": "2023-07-06T09:45:21.123Z"
+  },
+  {
+    "id": 4,
+    "name": "Alex Rodriguez",
+    "message": "Hey there, do you offer any discounts on bulk orders?",
+    "gender": "male",
+    "country": "Mexico",
+    "read": "false",
+    "creationDate": "2023-07-07T14:30:45.789Z"
+  },
+  {
+    "id": 5,
+    "name": "Sophia Chen",
+    "message": "Hi, I'm having trouble with my account login. Can you assist me?",
+    "gender": "female",
+    "country": "Australia",
+    "read": "true",
+    "creationDate": "2023-07-08T20:15:32.456Z"
+  },
+  {
+    "id": 6,
+    "name": "Alice Walker",
+    "message": "Hello, I'm excited to explore collaboration opportunities.",
+    "gender": "female",
+    "country": "United Kingdom",
+    "read": "true",
+    "creationDate": "2023-08-17T10:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "name": "Robert Harris",
+    "message": "Greetings! Let's discuss how we can work together effectively.",
+    "gender": "male",
+    "country": "United States",
+    "read": "true",
+    "creationDate": "2023-08-17T10:15:00.000Z"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Wilson",
+    "message": "Hi there, I'm interested in collaborating on exciting projects.",
+    "gender": "female",
+    "country": "Canada",
+    "read": "false",
+    "creationDate": "2023-08-17T10:30:00.000Z"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Martinez",
+    "message": "Hey, let's join forces and create something amazing!",
+    "gender": "male",
+    "country": "Australia",
+    "read": "true",
+    "creationDate": "2023-08-17T10:45:00.000Z"
+  },
+  {
+    "id": 10,
+    "name": "Olivia Jackson",
+    "message": "Hello, I'm eager to collaborate and learn from each other.",
+    "gender": "female",
+    "country": "Germany",
+    "read": "true",
+    "creationDate": "2023-08-17T11:00:00.000Z"
+  },
+  {
+    "id": 11,
+    "name": "Ethan Taylor",
+    "message": "Hi, let's work together to bring our ideas to life.",
+    "gender": "male",
+    "country": "France",
+    "read": "true",
+    "creationDate": "2023-08-17T11:15:00.000Z"
+  },
+  {
+    "id": 12,
+    "name": "Ava Miller",
+    "message": "Greetings! Let's collaborate and make a positive impact.",
+    "gender": "female",
+    "country": "Spain",
+    "read": "true",
+    "creationDate": "2023-08-17T11:30:00.000Z"
+  },
+  {
+    "id": 13,
+    "name": "William Davis",
+    "message": "Hey there, excited to work together and achieve great results.",
+    "gender": "male",
+    "country": "Italy",
+    "read": "true",
+    "creationDate": "2023-08-17T11:45:00.000Z"
+  },
+  {
+    "id": 14,
+    "name": "Mia Garcia",
+    "message": "Hi, I believe our collaboration can lead to innovative solutions.",
+    "gender": "female",
+    "country": "Japan",
+    "read": "false",
+    "creationDate": "2023-08-17T12:00:00.000Z"
+  },
+  {
+    "id": 15,
+    "name": "Liam Martinez",
+    "message": "Hello, let's collaborate and create something extraordinary.",
+    "gender": "male",
+    "country": "United States",
+    "read": "false",
+    "creationDate": "2023-08-17T12:15:00.000Z"
+  },
+  {
+    "id": 16,
+    "name": "Emma Johnson",
+    "message": "Greetings! I'm looking forward to a productive collaboration.",
+    "gender": "female",
+    "country": "Canada",
+    "read": "false",
+    "creationDate": "2023-08-17T12:30:00.000Z"
+  },
+  {
+    "id": 17,
+    "name": "Noah Brown",
+    "message": "Hey there, let's join forces and make a difference.",
+    "gender": "male",
+    "country": "Australia",
+    "read": "true",
+    "creationDate": "2023-08-17T12:45:00.000Z"
+  },
+  {
+    "id": 18,
+    "name": "Oliver Wilson",
+    "message": "Hi there, let's collaborate and bring our ideas to life.",
+    "gender": "male",
+    "country": "United Kingdom",
+    "read": "true",
+    "creationDate": "2023-08-17T13:00:00.000Z"
+  },
+  {
+    "id": 19,
+    "name": "Isabella Taylor",
+    "message": "Hello, I believe our partnership can lead to amazing outcomes.",
+    "gender": "female",
+    "country": "United States",
+    "read": "false",
+    "creationDate": "2023-08-17T13:15:00.000Z"
+  },
+  {
+    "id": 20,
+    "name": "Lucas Harris",
+    "message": "Hey, let's collaborate and make a positive impact on society.",
+    "gender": "male",
+    "country": "Canada",
+    "read": "true",
+    "creationDate": "2023-08-17T13:30:00.000Z"
+  },
+  {
+    "id": 21,
+    "name": "Charlotte Jackson",
+    "message": "Greetings! Let's collaborate and innovate together.",
+    "gender": "female",
+    "country": "Australia",
+    "read": "true",
+    "creationDate": "2023-08-17T13:45:00.000Z"
+  },
+  {
+    "id": 22,
+    "name": "Alexander Miller",
+    "message": "Hi there, I'm excited to work together and achieve excellence.",
+    "gender": "male",
+    "country": "Germany",
+    "read": "true",
+    "creationDate": "2023-08-17T14:00:00.000Z"
+  },
+  {
+    "id": 23,
+    "name": "Grace Davis",
+    "message": "Hello, let's combine our skills for a successful collaboration.",
+    "gender": "female",
+    "country": "France",
+    "read": "true",
+    "creationDate": "2023-08-17T14:15:00.000Z"
+  },
+  {
+    "id": 24,
+    "name": "Joe Davis",
+    "message": "Hello.",
+    "gender": "male",
+    "country": "France",
+    "read": "false",
+    "creationDate": "2023-08-17T14:15:00.000Z"
+  }
+]
